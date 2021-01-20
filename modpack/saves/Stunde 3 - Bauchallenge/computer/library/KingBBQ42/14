@@ -1,4 +1,4 @@
-Hauswand
+Hauswand2
 VISUAL
 
 
@@ -97,9 +97,9 @@ ComputerCraftEdu:end
 
 
 
-ComputerCraftEdu:turnLeft
-ComputerCraftEdu:moveForward
 ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:turnLeft
 ComputerCraftEdu:moveBack 4
 ComputerCraftEdu:moveDown 9
 
