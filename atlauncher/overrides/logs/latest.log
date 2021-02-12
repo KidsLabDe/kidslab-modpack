@@ -1,76 +1,108 @@
-[16:47:43] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[16:47:43] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[16:47:43] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
-[16:47:43] [main/INFO]: Forge Mod Loader version 7.99.36.1558 for Minecraft 1.7.10 loading
-[16:47:43] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
-[16:47:43] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:47:43] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[16:47:43] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:47:43] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:47:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:47:43] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[16:47:43] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[16:47:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:47:43] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[16:47:44] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
-[16:47:44] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
-[16:47:44] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[16:47:44] [main/INFO]: Setting user: 5trg_v
-[16:47:44] [Client thread/INFO]: LWJGL Version: 2.9.1
-[16:47:45] [Client thread/INFO]: Attempting early MinecraftForge initialization
-[16:47:45] [Client thread/INFO]: MinecraftForge v10.13.4.1558 Initialized
-[16:47:45] [Client thread/INFO]: Replaced 183 ore recipies
-[16:47:45] [Client thread/INFO]: Completed early MinecraftForge initialization
-[16:47:45] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[16:47:45] [Client thread/INFO]: Searching C:\Users\vince\KidsLab\ATLauncher\instances\KidslabsProgrammierModPack\mods for mods
-[16:47:48] [Client thread/INFO]: Forge Mod Loader has identified 8 mods to load
-[16:47:48] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, ComputerCraft, ComputerCraftEdu, customnpcs, hungerstrike, worldedit] at CLIENT
-[16:47:48] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, ComputerCraft, ComputerCraftEdu, customnpcs, hungerstrike, worldedit] at SERVER
-[16:47:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:ComputerCraftEdu, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Hunger Strike, FMLFileResourcePack:WorldEdit
-[16:47:48] [Client thread/INFO]: Processing ObjectHolder annotations
-[16:47:48] [Client thread/INFO]: Found 341 ObjectHolder annotations
-[16:47:48] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[16:47:48] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[16:47:48] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[16:47:49] [Client thread/INFO]: [noppes.npcs.controllers.ScriptController:<init>:59]: Script Engings Available:
-[16:47:49] [Client thread/INFO]: [noppes.npcs.controllers.ScriptController:<init>:65]: Scala: .scala
-[16:47:49] [Client thread/INFO]: Applying holder lookups
-[16:47:49] [Client thread/INFO]: Holder lookups applied
-[16:47:49] [Client thread/INFO]: Injecting itemstacks
-[16:47:49] [Client thread/INFO]: Itemstack injection complete
-[16:47:49] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:47:49] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
-[16:47:49] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
-[16:47:49] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:47:49] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/What do you need.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.what_do_you_need
-[16:47:49] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/Would you like to trade.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.trade
-[16:47:49] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
-[16:47:49] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[16:47:49] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[16:47:49] [Client thread/INFO]: Injecting itemstacks
-[16:47:49] [Client thread/INFO]: Itemstack injection complete
-[16:47:49] [Client thread/INFO]: WorldEdit for Forge (version 6.1.1) is loaded
-[16:47:49] [Client thread/INFO]: Forge Mod Loader has successfully loaded 8 mods
-[16:47:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:ComputerCraftEdu, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Hunger Strike, FMLFileResourcePack:WorldEdit
-[16:47:50] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:47:50] [Sound Library Loader/INFO]: Sound engine started
-[16:47:50] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[16:47:50] [Client thread/INFO]: Created: 512x512 textures/items-atlas
-[16:47:50] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:47:50] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
-[16:47:50] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
-[16:47:50] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:47:50] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:47:50] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
-[16:47:50] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
-[16:47:50] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:47:50] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/What do you need.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.what_do_you_need
-[16:47:50] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/Would you like to trade.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.trade
-[16:47:50] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
-[16:47:51] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:47:51] [Sound Library Loader/INFO]: Sound engine started
-[16:48:00] [Client thread/INFO]: Stopping!
-[16:48:00] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:48:00] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
-[16:48:01] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
-[16:48:01] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:45:46] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:45:46] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:45:46] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:45:46] [main/INFO]: Forge Mod Loader version 7.99.36.1558 for Minecraft 1.7.10 loading
+[16:45:46] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
+[16:45:46] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:45:46] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[16:45:46] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:45:46] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:45:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:45:47] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:45:47] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[16:45:47] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:45:47] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[16:45:47] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[16:45:47] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[16:45:47] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[16:45:47] [main/INFO]: Setting user: 5trg_v
+[16:45:48] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:45:48] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[16:45:48] [Client thread/INFO]: MinecraftForge v10.13.4.1558 Initialized
+[16:45:48] [Client thread/INFO]: Replaced 183 ore recipies
+[16:45:48] [Client thread/INFO]: Completed early MinecraftForge initialization
+[16:45:48] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[16:45:48] [Client thread/INFO]: Searching C:\Users\vince\KidsLab\ATLauncher\instances\KidslabsProgrammierModPack\mods for mods
+[16:45:51] [Client thread/INFO]: Forge Mod Loader has identified 8 mods to load
+[16:45:51] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, ComputerCraft, ComputerCraftEdu, customnpcs, hungerstrike, worldedit] at CLIENT
+[16:45:51] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, ComputerCraft, ComputerCraftEdu, customnpcs, hungerstrike, worldedit] at SERVER
+[16:45:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:ComputerCraftEdu, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Hunger Strike, FMLFileResourcePack:WorldEdit
+[16:45:52] [Client thread/INFO]: Processing ObjectHolder annotations
+[16:45:52] [Client thread/INFO]: Found 341 ObjectHolder annotations
+[16:45:52] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[16:45:52] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[16:45:52] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[16:45:52] [Client thread/INFO]: [noppes.npcs.controllers.ScriptController:<init>:59]: Script Engings Available:
+[16:45:52] [Client thread/INFO]: [noppes.npcs.controllers.ScriptController:<init>:65]: Scala: .scala
+[16:45:52] [Client thread/INFO]: Applying holder lookups
+[16:45:52] [Client thread/INFO]: Holder lookups applied
+[16:45:52] [Client thread/INFO]: Injecting itemstacks
+[16:45:52] [Client thread/INFO]: Itemstack injection complete
+[16:45:52] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:45:52] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[16:45:53] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[16:45:53] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:45:53] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[16:45:53] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/What do you need.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.what_do_you_need
+[16:45:53] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/Would you like to trade.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.trade
+[16:45:53] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[16:45:53] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[16:45:53] [Client thread/INFO]: Injecting itemstacks
+[16:45:53] [Client thread/INFO]: Itemstack injection complete
+[16:45:53] [Client thread/INFO]: WorldEdit for Forge (version 6.1.1) is loaded
+[16:45:53] [Client thread/INFO]: Forge Mod Loader has successfully loaded 8 mods
+[16:45:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:ComputerCraftEdu, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Hunger Strike, FMLFileResourcePack:WorldEdit
+[16:45:53] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:45:53] [Sound Library Loader/INFO]: Sound engine started
+[16:45:53] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[16:45:53] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[16:45:53] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:45:53] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[16:45:54] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[16:45:54] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:45:54] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:45:54] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[16:45:54] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[16:45:54] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:45:54] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/What do you need.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.what_do_you_need
+[16:45:54] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/Would you like to trade.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.trade
+[16:45:54] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[16:45:54] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:45:54] [Sound Library Loader/INFO]: Sound engine started
+[16:46:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:ComputerCraftEdu, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Hunger Strike, FMLFileResourcePack:WorldEdit
+[16:46:00] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[16:46:00] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[16:46:00] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:00] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[16:46:01] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[16:46:01] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:01] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:01] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[16:46:01] [Thread-13/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[16:46:01] [Thread-13/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:46:01] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/What do you need.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.what_do_you_need
+[16:46:01] [Thread-13/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[16:46:01] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/Would you like to trade.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.trade
+[16:46:01] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:01] [Sound Library Loader/INFO]: Sound engine started
+[16:46:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:ComputerCraftEdu, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Hunger Strike, FMLFileResourcePack:WorldEdit
+[16:46:07] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[16:46:07] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[16:46:07] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:07] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[16:46:08] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[16:46:08] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:08] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:08] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[16:46:08] [Thread-15/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[16:46:08] [Thread-15/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:46:08] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/What do you need.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.what_do_you_need
+[16:46:08] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/Would you like to trade.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.trade
+[16:46:08] [Thread-15/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[16:46:08] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:08] [Sound Library Loader/INFO]: Sound engine started
+[16:46:20] [Client thread/INFO]: Stopping!
+[16:46:20] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[16:46:20] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[16:46:20] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[16:46:20] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
