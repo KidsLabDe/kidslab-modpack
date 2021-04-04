@@ -3,7 +3,7 @@
     "version": "1.8.9",
     "modLoaders": [
       {
-        "id": "forge-11.15.1.1722",
+        "id": "forge-11.15.1.2318",
         "primary": true
       }
     ]
@@ -12,21 +12,21 @@
   "manifestVersion": 1,
   "name": "Kidslab's Programmier Mod-Pack",
   "version": "1.8.9",
-  "author": "5trg_v",
+  "author": "KingBBQ42",
   "files": [
     {
       "projectID": 221826,
-      "fileID": 2209669,
-      "required": true
-    },
-    {
-      "projectID": 75334,
-      "fileID": 2226369,
+      "fileID": 2340248,
       "required": true
     },
     {
       "projectID": 225608,
-      "fileID": 2309699,
+      "fileID": 2275930,
+      "required": true
+    },
+    {
+      "projectID": 242932,
+      "fileID": 2390421,
       "required": true
     }
   ],
