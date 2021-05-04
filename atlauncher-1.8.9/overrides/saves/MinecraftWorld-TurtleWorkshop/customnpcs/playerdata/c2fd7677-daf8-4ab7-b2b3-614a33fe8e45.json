@@ -1,0 +1,36 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+        {
+            "Long": 1618132234499L,
+            "Slot": 1
+        }
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Gehirnkirmes3000",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "c2fd7677-daf8-4ab7-b2b3-614a33fe8e45",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 6
+        }
+    ]
+}

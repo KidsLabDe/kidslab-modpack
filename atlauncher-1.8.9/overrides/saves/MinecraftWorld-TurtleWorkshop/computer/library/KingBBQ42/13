@@ -1,0 +1,124 @@
+Hauswand
+VISUAL
+computercraftedu:variable H
+computercraftedu:equalTo
+computercraftedu:number 5
+computercraftedu:comment "Hoehe"
+
+computercraftedu:variable L
+computercraftedu:equalTo
+computercraftedu:number 12
+computercraftedu:comment "Laenge"
+
+
+
+computercraftedu:repeat
+computercraftedu:variable L
+computercraftedu:do
+computercraftedu:select
+computercraftedu:number 1
+
+
+
+
+
+
+
+
+computercraftedu:repeat
+computercraftedu:variable H
+computercraftedu:do
+
+
+
+
+
+
+
+
+
+computercraftedu:moveUp
+computercraftedu:placeDown
+
+
+
+
+
+
+
+
+
+
+computercraftedu:end
+computercraftedu:select
+computercraftedu:number 3
+
+
+
+
+
+
+
+
+
+computercraftedu:repeat
+computercraftedu:number 4
+computercraftedu:do
+
+
+
+
+
+
+
+
+
+
+computercraftedu:moveForward
+computercraftedu:moveUp
+computercraftedu:placeDown
+
+
+
+
+
+
+
+
+computercraftedu:end
+
+
+
+
+
+
+
+
+
+
+
+computercraftedu:turnLeft
+computercraftedu:moveForward
+computercraftedu:turnRight
+computercraftedu:moveBack 4
+computercraftedu:moveDown 9
+
+
+
+
+
+
+computercraftedu:end
+
+
+
+
+
+
+
+
+
+
+
+
+
