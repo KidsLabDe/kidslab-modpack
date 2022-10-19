@@ -13,20 +13,8 @@
     ],
     "ItemGiversList": [
         {
-            "Long": 1666079912306L,
-            "Slot": 1
-        },
-        {
-            "Long": 1619442113316L,
-            "Slot": 2
-        },
-        {
-            "Long": 1620045401064L,
+            "Long": 1666164943965L,
             "Slot": 3
-        },
-        {
-            "Long": 1618566228680L,
-            "Slot": 4
         }
     ],
     "MailData": [
@@ -41,11 +29,5 @@
     "UUID": "ad30957d-9cf3-415f-9c73-7941c821a8e0",
     "PlayerCompanionId": 0,
     "DialogData": [
-        {
-            "Dialog": 4
-        },
-        {
-            "Dialog": 6
-        }
     ]
 }
